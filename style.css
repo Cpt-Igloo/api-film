@@ -1,0 +1,40 @@
+/************ACCUEIL*************/
+li {
+	list-style:none;
+}
+
+.col {
+	white-space: nowrap;
+	overflow:hidden;
+}
+
+h2{
+    padding: 20px;
+    margin:0;
+}
+
+#thea, #kids, #recent{
+    background-color: #f4f4f4;
+    padding-top: 15px;    
+}
+
+.col-sm-6:hover{
+    opacity: 0.6;
+}
+
+.img-responsive{
+    width:auto;
+    max-height: 190px;
+}
+
+p{
+    text-align: center;
+    text-decoration: none;
+    margin-top:6px;
+    color:#245389;
+}
+
+a:hover {text-decoration: none;}
+
+a p:hover{color:#f2b81c;}
+
